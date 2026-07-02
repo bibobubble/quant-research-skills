@@ -1,0 +1,7 @@
+interface:
+  display_name: "Quantitative Investing"
+  short_description: "Systematic investing research and portfolio workflow"
+  default_prompt: "Use $quantitative-investing to analyze an alpha signal, risk model, portfolio, or backtest."
+
+policy:
+  allow_implicit_invocation: true
